@@ -6,8 +6,8 @@
         <version>1.1</version>
         <qgis_minimum_version>3.28.0</qgis_minimum_version>
         <homepage>https://sema.ac.gov.br</homepage>
-        <file_name>car_pra_extrair_release.zip</file_name>
+        <file_name>plugin_carpra.zip</file_name>
         <author_name>Paulo Cesar Campos Ferreira</author_name>
-        <download_url>https://www.dropbox.com/scl/fi/3k3kwl938yo0lfwlwfi4h/car_pra_extrair_release.zip?rlkey=v6tia3pzw84yshsu07f4ifk7j&amp;st=aevb4rm2&amp;dl=1</download_url>
+        <download_url>https://www.dropbox.com/scl/fi/1mk1r60wymnbey1r8dmw8/plugin_carpra.zip?rlkey=12dhz1skcxn3yd5x3dpdqq8fl&amp;st=fgvxxssf&amp;dl=1</download_url>
     </pyqgis_plugin>
 </plugins>
