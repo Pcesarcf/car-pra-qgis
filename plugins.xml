@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="Sistema de Análise CAR/PRA" version="1.2">
+    <pyqgis_plugin name="Sistema de Análise CAR/PRA" version="1.1">
         <description>Solução automatizada para extração de dados do CAR, cruzamentos espaciais e relatórios.</description>
         <about>Ferramenta oficial da SEMA-AC para automação de análises do CAR, geração de RAT e PRADA.</about>
-        <version>1.2</version>
+        <version>1.1</version>
         <qgis_minimum_version>3.28.0</qgis_minimum_version>
         <homepage>https://sema.ac.gov.br</homepage>
         <file_name>plugin_carpra.zip</file_name>
